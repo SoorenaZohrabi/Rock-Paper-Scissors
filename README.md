@@ -44,20 +44,24 @@ The project helps practice:
 - JavaScript (ES6)
 
 ## Project Structure
+
+```text
 rock-paper-scissors/
 │
 ├── index.html
 │
 ├── js/
-│ └── app.js
+│   └── app.js
 │
 ├── scss/
-│ ├── style.scss
-│ ├── _variables.scss
-│ ├── _components.scss
-│ ├── _responsive.scss
-│ └── style.css
-
+│   ├── style.scss
+│   ├── _variables.scss
+│   ├── _components.scss
+│   └── _responsive.scss
+│
+└── css/
+    └── style.css
+```
 
 ## Design
 
