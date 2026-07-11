@@ -1,0 +1,19 @@
+@media(max-width:768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .choices {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .battle {
+        gap: 20px;
+    }
+
+    .score {
+        flex-direction: column;
+        align-items: center;
+    }
+}

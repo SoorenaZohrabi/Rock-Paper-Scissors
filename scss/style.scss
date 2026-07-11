@@ -1,0 +1,38 @@
+@import "variables";
+@import "components";
+@import "responsive";
+
+
+body {
+    background: $light-color;
+    color: $text-color;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background: $secondary-color;
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+    }
+}
+
+.hero {
+    padding: 100px 0;
+    h1 {
+        font-size: 3rem;
+        color: $secondary-color;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+}
+
+.btn-primary {
+    background: $accent-color;
+    border: none;
+    &:hover {
+        background: $primary-color;
+    }
+}
