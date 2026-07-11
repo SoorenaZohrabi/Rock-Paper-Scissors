@@ -1,4 +1,4 @@
-[Rock Paper Scissors Game](https://soorenazohrabi.github.io/Rock-Paper-Scissors/)
+[Rock Paper Scissors Game](http://rpsgame.soorenadev.ir/)
 
 # Rock Paper Scissors Game
 
